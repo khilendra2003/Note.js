@@ -1,2 +1,2 @@
 # Note.js
-Full Note.JS Project
+Full Stack Note.JS Project
